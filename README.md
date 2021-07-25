@@ -21,7 +21,7 @@ As a Front-end Developer, I desire to use my obssesstion to details to enjoy wor
 - I love animals and would like to understand them as much as human beings. 🐯🦁🐒🦅
 - I'm fueled by coffee. ☕️
 
-### 👀 A glance into my GitHub
+### 👀 A peak into my GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamoort&layout=compact&theme=dark&hide_border=true)
 
 
