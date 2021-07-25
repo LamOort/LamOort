@@ -22,3 +22,13 @@ As a Front-end Developer, I desire to use my obssesstion to details to enjoy wor
 
 ### A glance into my GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamoort&layout=compact&theme=dark&hide_border=true)
+
+
+### 🛠️ My toolbox
+<code><img height="25" src="https://user-images.githubusercontent.com/26543329/126912351-e6cf30b9-b05c-4084-bb4e-4170cf53c40c.png"></code>
+<code><img height="25" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-256.png"></code>
+<code><img height="25" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-256.png"></code>
+<code><img height="25" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-256.png"></code>
+<code><img height="25" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png"></code>
+
+
