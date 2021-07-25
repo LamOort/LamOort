@@ -9,11 +9,12 @@ I am a Front-end Developer who have a strong feeling for UI-UX and psychology.
 
 As a Front-end Developer, I desire to use my obssesstion to details to enjoy working on products with visual attracting UI and at the same time bringing in the smoothest UX that could improve the quality of our daily lives.
 
-### 🤖 Few things about me
+### 🤖 Few things about me 
 - 💻   I'm experienced with a variety of common Front-end frameworks and libraries out there: React, Vue, Angular, SASS, styled-components, Ant Design ... you name it!
 - 🎨   I prefer structuring layout and styling from scratch without any CSS framework, an CSS pre-processor or an CSS-in-JS is my way to go. 😉
 - 🛠   Currently working on improving my test writing skill and studying on the Back-end development side.
 - 📚   Looking for opportunities to study more about UI-UX, visual effects and animations. 
+- More details in my [resume](https://drive.google.com/file/d/1ZwhvSWSvSxZdU_ncnGn_pXyaMhwmxfas/view?usp=sharing)
 
 ### 🙋🏻‍♂️ In person
 - I'm a huge fan of story-telling video games & Dota 2, Invoker is my favorite hero</span> <img src="https://i.imgur.com/ra7zNCp.gif" width="50" style="margin-left: 50px"></li>
