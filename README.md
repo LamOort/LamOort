@@ -4,7 +4,7 @@
 
 <br>
 
-### Glad to meet you! ☕️
+### 🙋🏻‍♂️ Glad to meet you! 
 I am a Front-end Developer who have a strong feeling for UI-UX and psychology. 
 
 As a Front-end Developer, I desire to use my obssesstion to details to enjoy working on products with visual attracting UI and at the same time bringing in the smoothest UX that could improve the quality of our daily lives.
@@ -16,10 +16,10 @@ As a Front-end Developer, I desire to use my obssesstion to details to enjoy wor
 - 📚   Looking for opportunities to study more about UI-UX, visual effects and animations. 
 - More details in my [resume](https://drive.google.com/file/d/1ZwhvSWSvSxZdU_ncnGn_pXyaMhwmxfas/view?usp=sharing)
 
-### 🙋🏻‍♂️ In person
+### 🥷🏻 In person
 - I'm a huge fan of story-telling video games & Dota 2, Invoker is my favorite hero</span> <img src="https://i.imgur.com/ra7zNCp.gif" width="50" style="margin-left: 50px"></li>
 - I love animals and would like to understand them as much as human beings. 🐯🦁🐒🦅
-
+- I'm fueled by coffee. ☕️
 
 ### 👀 A glance into my GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamoort&layout=compact&theme=dark&hide_border=true)
