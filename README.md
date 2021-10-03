@@ -13,7 +13,7 @@ As a Front-end Developer, I desire to use my obssesstion to details to enjoy wor
 - 🎨   I prefer structuring layout and styling from scratch without any CSS framework, an CSS pre-processor or an CSS-in-JS library is my way to go. 😉
 - 🛠   Currently working on improving my test writing skill and exploring the Back-end development world.
 - 📚   Looking for opportunities to study more about UI-UX, visual effects and animations. 
-- More details in my [resume](https://drive.google.com/file/d/1VRaLuZwa8qYT2EHCln3Zcb5i7VeM8wrt/view?usp=sharing)
+- More details in my [resume](https://drive.google.com/file/d/1qnEbWkLq_7SFbh7WRTP6m6qf4Oug1JKw/view?usp=sharing)
 
 ### 🥷🏻 Get to know me in person
 - I'm (possibly) an ambivert. 😝
