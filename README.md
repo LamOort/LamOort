@@ -16,7 +16,7 @@ As a Front-end Developer, I desire to use my obssesstion to details to enjoy wor
 - More details in my [resume](https://drive.google.com/file/d/1oZjmNRm8IuWee9C3IWZSPbUIOspKUzbs/view?usp=sharing)
 
 ### 🥷🏻 Get to know me in person
-- I'm (possibly) an ambivert. 😝
+- I'm (possibly) an ambivert.
 - I'm a huge fan of story-telling video games & esports title like Dota 2, Invoker is my favorite hero</span> <img src="https://i.imgur.com/ra7zNCp.gif" width="50" style="margin-left: 50px">
 - I love animals and would like to understand them as much as human beings. 🐯🦁🐒🦅
 - I'm fueled by coffee. ☕️
