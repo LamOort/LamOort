@@ -6,7 +6,7 @@
 ### 🙋🏻‍♂️ Glad to meet you! 
 I am a Front-end Developer who have a strong feeling for UI-UX and psychology. 
 
-As a Front-end Developer, I desire to use my obssesstion to details to enjoy working on products with visual attracting UI and at the same time bringing in the smoothest UX that could improve the quality of our daily lives.
+As a Front-end Developer, I desire to use my obssesstion to details to enjoy working on products with visual attracting UI and at the same time bringing in the most comfortable UX that could improve the quality of our daily lives.
 
 ### 🤖 Few things about me 
 - 💻   I'm experienced with most of up-to-date Front-end technologies out there: React, Redux, Vue, Angular, SCSS, styled-components, ... you name it!
