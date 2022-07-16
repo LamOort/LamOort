@@ -10,14 +10,14 @@ As a Front-end Developer, I desire to use my obssesstion to details to enjoy wor
 
 ### 🤖 Few things about me 
 - 💻   I'm experienced with most of up-to-date Front-end technologies out there: React, Redux, Vue, Angular, SCSS, styled-components, ... you name it!
-- 🎨   I love building UI layout and styling from ground up.
+- 🎨   I love building web UI layout and styling from ground up.
 - 🛠   Currently improving my test writing skill and studying about Design Systems.
 - 📚   Looking for opportunities to study more about UI-UX, visual effects and animations. 
 - More details in my [resume](https://drive.google.com/file/d/1cE3KWZEZTKIbCfgARsD1MwGhUUGIpIvG/view?usp=sharing)
 
 ### 🥷🏻 Get to know me in person
-- I'm (possibly) an ambivert.
-- I'm a huge fan of story-telling video games since I can explore new things with multiple perspectives.
+- I'm an ambivert who likes spending my personal time alone and and communicating when participate in team work.
+- I'm a huge fan of story-telling video games since I can explore new things with different perspectives.
 - I love animals and would like to understand them as much as human beings. 🐯🦁🐒🦅
 - I'm fueled by coffee. ☕️
 
