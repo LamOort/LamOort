@@ -10,7 +10,7 @@ As a Front-end Developer, I desire to use my obssesstion to details to enjoy wor
 
 ### 🤖 Few things about me 
 - 💻   I'm experienced with most of up-to-date Front-end technologies out there: React, Redux, Vue, Angular, SCSS, styled-components, ... you name it!
-- 🎨   I speaks CSS and love building web UI layout and styling from ground up.
+- 🎨   I speak CSS and love building web UI layout and styling from ground up.
 - 🛠   Currently improving my test writing skill and studying about Design Systems.
 - 📚   Looking for opportunities to study more about UI-UX, visual effects and animations. 
 - More details in my [resume](https://drive.google.com/file/d/1cE3KWZEZTKIbCfgARsD1MwGhUUGIpIvG/view?usp=sharing)
