@@ -13,7 +13,7 @@ As a Front-end Developer, I desire to use my obssesstion to details to enjoy wor
 - 🎨   I speak CSS and love building web UI layout and styling from ground up.
 - 🛠   Currently improving my test writing skill and studying about Design Systems.
 - 📚   Looking for opportunities to study more about UI-UX, visual effects and animations. 
-- More details in my [resume](https://drive.google.com/file/d/1CKk2g8elisSIoCZJcqArk2qyqGJ2_mAw/view?usp=sharing)
+- More details in my [resume](https://drive.google.com/file/d/1RqqCx3rRYVjxlJwms8u32FQlx3OpIag1/view?usp=share_link)
 
 ### 🥷🏻 Get to know me in person
 - I'm an ambivert who likes spending my personal time alone and and communicating when participating in team work.
