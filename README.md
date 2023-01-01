@@ -16,7 +16,7 @@ As a Front-end Developer, I desire to use my obssesstion to details to enjoy wor
 - More details in my [resume](https://drive.google.com/file/d/1RqqCx3rRYVjxlJwms8u32FQlx3OpIag1/view?usp=share_link)
 
 ### 🥷🏻 Get to know me in person
-- I'm an ambivert who likes spending my personal time alone and and communicating when participating in team work.
+- I'm an ambivert who likes spending my personal time alone and and socialising every now and then.
 - I'm a huge fan of story-telling video games since I can explore new things with different perspectives.
 - I love animals and would like to understand them as much as human beings. 🐯🦁🐒🦅
 - I'm fueled by coffee. ☕️
