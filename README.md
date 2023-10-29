@@ -4,19 +4,19 @@
 <br>
 
 ### 🙋🏻‍♂️ Glad to meet you! 
-I am a Front-end Developer who have a strong feeling for UI-UX and psychology. 
+I am a Front-end Developer with a strong feeling for UI-UX and psychology. 
 
-As a Front-end Developer, I desire to use my obssesstion to details to enjoy working on products with visual attracting UI and at the same time bringing in the most comfortable UX that could improve the quality of our daily lives.
+As a Front-end Developer, I desire to use my obsession with details to enjoy working on products with visually attractive UI and at the same time bring in the most comfortable UX that could improve the quality of our daily lives.
 
 ### 🤖 Few things about me 
-- 💻   I'm experienced with most of up-to-date Front-end technologies out there: React, Redux, Vue, Angular, SCSS, styled-components, ... you name it!
-- 🎨   I speak CSS and love building web UI layout and styling from ground up.
-- 🛠   Currently improving my test writing skill and studying about Design Systems.
-- 📚   Looking for opportunities to dive deeper into web component development, UI-UX, visual effects and animations. 
-- More details in my [resume](https://drive.google.com/file/d/1RqqCx3rRYVjxlJwms8u32FQlx3OpIag1/view?usp=share_link)
+- 💻   I'm experienced with most of the up-to-date Front-end technologies out there: React, Redux, Vue, Angular, SCSS, styled-components, ... you name it!
+- 🎨   I speak CSS and love building web UI layout and styling from the ground up.
+- 🛠   Currently improving my test writing skills and studying Design Systems.
+- 📚   Looking for opportunities to dive deeper into web component development, UI-UX, visual effects, and animations. 
+- More details in my [resume](https://drive.google.com/file/d/1RqqCx3rRYVjxlJwms8u32FQlx3OpIag1/view?usp=sharing)
 
 ### 🥷🏻 Get to know me in person
-- I'm an ambivert who likes spending my personal time alone and and socialising every now and then.
+- I'm an ambivert who likes spending my personal time alone and socializing every now and then.
 - I'm a huge fan of story-telling video games since I can explore new things with different perspectives.
 - I love animals and would like to understand them as much as human beings. 🐯🦁🐒🦅
 - I'm fueled by coffee. ☕️
