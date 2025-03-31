@@ -10,18 +10,18 @@ As a Front-end Developer, I desire to use my obsession with details to enjoy wor
 
 ### 🤖 Few things about me 
 - 💻   I'm experienced with most of the up-to-date Front-end technologies out there: React, Redux, Vue, Angular, SCSS, styled-components, ... you name it!
-- 🎨   I speak CSS and love building web UI layout and styling from the ground up.
+- 🎨   I speak CSS and love building web UI layouts and styling from the ground up.
 - 🛠   Currently improving my test writing skills and studying Design Systems.
 - 📚   Looking for opportunities to dive deeper into web component development, UI-UX, visual effects, and animations. 
-- More details in my [resume](https://drive.google.com/file/d/1RqqCx3rRYVjxlJwms8u32FQlx3OpIag1/view?usp=sharing)
+- More details in my [resume](https://drive.google.com/file/d/1tTaf7F1n9bMH8g5PcwHLJSoNY8EEP0-x/view?usp=drive_link)
 
 ### 🥷🏻 Get to know me in person
 - I'm an ambivert who likes spending my personal time alone and socializing every now and then.
-- I'm a huge fan of story-telling video games since I can explore new things with different perspectives.
+- I'm a huge fan of story-telling video games since I can explore new things from different perspectives.
 - I love animals and would like to understand them as much as human beings. 🐯🦁🐒🦅
 - I'm fueled by coffee. ☕️
 
-### 👀 A peak into my GitHub
+### 👀 A peek into my GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamoort&layout=compact&theme=dark&hide_border=true)
 
 
