@@ -9,10 +9,10 @@ I am a Front-end Developer with a strong feeling for UI-UX and psychology.
 As a Front-end Developer, I desire to use my obsession with details to enjoy working on products with visually attractive UI and, at the same time, bring in the most comfortable UX that could improve the quality of our daily lives.
 
 ### 🤖 Few things about me 
-- 💻   I'm experienced with most of the up-to-date Front-end technologies out there: React, Redux, Vue, Angular, SCSS, styled-components, tailwindCSS,... You name it!
-- 🎨   I speak CSS and love building web UI layouts and styling from the ground up.
-- 🛠   Currently improving my test writing skills and studying Design Systems.
-- 📚   Looking for opportunities to dive deeper into web component development, UI-UX, visual effects, and animations. 
+- 💻   I'm experienced with most of the up-to-date Front-end technologies out there (especially with the React ecosystem): React, redux, Tanstack Query, SCSS, Tailwind CSS, ... You name it!
+- 🎨   I love building web interfaces.
+- 🛠   I aim to strengthen my technical skills and my speech articulation.
+- 📚   Looking for opportunities to dive deeper into large-scale systems, optimizing SEO, building design systems, and micro-frontends.
 - More details in my [resume](https://drive.google.com/file/d/1tTaf7F1n9bMH8g5PcwHLJSoNY8EEP0-x/view?usp=drive_link)
 
 ### 🥷🏻 Get to know me in person
