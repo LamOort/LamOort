@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Lam Nguyen](https://lamoort.github.io/) - A Front-end Developer and UI-UX enthusiast👨🏻‍💻
+### Hi there 👋 I'm [Lam Nguyen](https://lamoort.github.io/)
 
 [![Linkedin: Lam Nguyen](https://img.shields.io/badge/-@lamnguyen-0077B5?style=flat-square&labelColor=0077B5&logo=linkedin&link=https://www.linkedin.com/in/lam-nguyenchanh/)](https://www.linkedin.com/in/lam-nguyenchanh/)
 <br>
