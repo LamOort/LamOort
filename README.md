@@ -4,22 +4,23 @@
 <br>
 
 ### 🙋🏻‍♂️ Glad to meet you! 
-I am a Front-end Engineer with a strong feeling for UI-UX and psychology. 
+I’m a Front-end Engineer with a strong passion for UI/UX and human psychology.
+I enjoy crafting interfaces that are not only visually appealing but also intuitive and comfortable to use.
 
-As a Front-end Engineer, I desire to use my obsession with details to work on products with visually attractive UI and, at the same time, bring in the most comfortable UX that could improve the quality of our daily lives.
+My attention to detail drives me to build products that balance beautiful design with thoughtful user experiences, aiming to improve the quality of everyday digital interactions.
 
-### 🤖 Few things about me 
-- 💻   I'm experienced with most of the up-to-date Front-end technologies out there (especially with the React ecosystem): React, redux, Tanstack Query, SCSS, Tailwind CSS, ... You name it!
-- 🎨   I love building web interfaces.
-- 🛠   I aim to strengthen my technical skills and my speech articulation.
-- 📚   Looking for opportunities to dive deeper into large-scale systems, optimizing SEO, building design systems, and micro-frontends.
+### 🤖 A few things about me 
+- 💻 Front-end focused: Experienced with modern technologies, especially in the React ecosystem — React, Redux, TanStack Query, SCSS, Tailwind CSS, and more.
+- 🎨 UI enthusiast: I genuinely enjoy designing and building clean, polished web interfaces.
+- 🛠 Continuous learner: Always working on strengthening my technical depth and people skills.
+- 📚 Exploring deeper topics: Interested in large-scale frontend architectures, SEO optimization, design systems, and micro-frontends.
 - More details in my [resume](https://drive.google.com/file/d/1tTaf7F1n9bMH8g5PcwHLJSoNY8EEP0-x/view?usp=drive_link)
 
 ### 🥷🏻 Get to know me in person
-- I'm an ambivert who likes spending my personal time alone and socializing every now and then.
-- I'm a huge fan of story-telling video games since I can explore new things from different perspectives.
-- I love animals and would like to understand them as much as human beings. 🐯🦁🐒🦅
-- I'm fueled by coffee. ☕️
+- I'm an ambivert — I enjoy quiet time to recharge but also value meaningful social interactions.
+- 🎮 I’m a big fan of story-driven video games, especially those that explore different perspectives and narratives.
+- 🐯 I love animals and enjoy learning about their behavior and intelligence.
+- ☕ Coffee keeps me running.
 
 ### 👀 A peek into my GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamoort&layout=compact&theme=dark&hide_border=true)
