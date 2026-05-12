@@ -14,7 +14,7 @@ My attention to detail drives me to build products that balance beautiful design
 - 🎨 UI enthusiast: I genuinely enjoy designing and building clean, polished web interfaces.
 - 🛠 Continuous learner: Always working on strengthening my technical depth and people skills.
 - 📚 Exploring deeper topics: Interested in large-scale frontend architectures, SEO optimization, design systems, and micro-frontends.
-- More details in my [resume](https://drive.google.com/file/d/1uphM88wOqMcyK9ubXyW-p7xP4FCX_4FD/view?usp=sharing)
+- More details in my [resume](https://drive.google.com/file/d/1U8QExt8aRF3M5bx505TyMu8jjdEZlteP/view?usp=sharing)
 
 ### 🥷🏻 Get to know me in person
 - I'm an ambivert — I enjoy quiet time to recharge but also value meaningful social interactions.
