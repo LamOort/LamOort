@@ -4,16 +4,16 @@
 <br>
 
 ### 🙋🏻‍♂️ Glad to meet you! 
-I’m a Front-end Engineer with a strong passion for UI/UX and human psychology.
+I’m a Software Engineer with a strong passion for UI/UX and human psychology.
 I enjoy crafting interfaces that are not only visually appealing but also intuitive and comfortable to use.
 
 My attention to detail drives me to build products that balance beautiful design with thoughtful user experiences, aiming to improve the quality of everyday digital interactions.
 
 ### 🤖 A few things about me 
-- 💻 Front-end focused: Experienced with modern technologies, especially in the React ecosystem — React, Redux, TanStack Query, SCSS, Tailwind CSS, and more.
+- 💻 Front-end focused: Experienced with modern technologies, especially in the React ecosystem — React, Redux, TanStack Query, modern CSS, and more.
 - 🎨 UI enthusiast: I genuinely enjoy designing and building clean, polished web interfaces.
 - 🛠 Continuous learner: Always working on strengthening my technical depth and people skills.
-- 📚 Exploring deeper topics: Interested in large-scale frontend architectures, SEO optimization, design systems, and micro-frontends.
+- 📚 Exploring deeper topics: Interested in large-scale frontend architectures, design systems, and deepening my system-level understanding.
 - More details in my [resume](https://drive.google.com/file/d/1U8QExt8aRF3M5bx505TyMu8jjdEZlteP/view?usp=sharing)
 
 ### 🥷🏻 Get to know me in person
