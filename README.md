@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Lam Nguyen](https://lamoort.github.io/)
+### Hi there, it's great to see you found your way here👋 I'm Lam
 
 [![Linkedin: Lam Nguyen](https://img.shields.io/badge/-@lamnguyen-0077B5?style=flat-square&labelColor=0077B5&logo=linkedin&link=https://www.linkedin.com/in/lam-nguyenchanh/)](https://www.linkedin.com/in/lam-nguyenchanh/)
 <br>
